@@ -10,7 +10,7 @@ Mature BSc (Hons) Computer Science student at SETU Waterford, on the **Automotiv
 
 **Background**
 - Bachelor of Mechanical Engineering, Kyiv University of Civil Aviation
-- 18 years' military service as an aircraft radio operator, including UN missions
+- 10 years' military service as an aircraft radio operator, including UN missions
 - Security systems installation (JEC)
 
 **Featured projects**
