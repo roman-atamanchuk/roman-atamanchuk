@@ -1,6 +1,6 @@
 ### Hi, I'm Roman
 
-Mature BSc (Hons) Computer Science student at SETU Waterford, on the **Automotive & Automation Systems** pathway. Looking for an **automation / controls / machine vision placement, January–September 2027**, in the Waterford area.
+BSc (Hons) Computer Science student at SETU, on the **Automotive & Automation Systems** pathway. Open to a **work placement from January 2027** in software, embedded, automotive or automation roles, anywhere in Ireland.
 
 **What I work with**
 - Embedded C on Infineon XMC1400, FreeRTOS (tasks, queues, interrupts), PWM, ADC
